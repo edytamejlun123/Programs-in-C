@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1662506203 source:c:\users\hp\desktop\studia\1 rok\2 semestr\programowanie-strukturalne\napisy\adres-znaku-w-napisie\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662495590 source:c:\users\hp\desktop\studia\1 rok\2 semestr\programowanie-strukturalne\napisy\kopiuj_n_znaków\main.c
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+

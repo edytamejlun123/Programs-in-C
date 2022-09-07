@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662478989 source:c:\users\hp\desktop\studia\1 rok\2 semestr\programowanie-strukturalne\napisy\dlugosc-2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+
