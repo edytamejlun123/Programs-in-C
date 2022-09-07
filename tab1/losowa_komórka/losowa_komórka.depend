@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1661611940 source:c:\users\hp\desktop\studia\1 rok\2 semestr\programowanie-strukturalne\tab\losowa_komórka\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
